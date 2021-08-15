@@ -24,7 +24,7 @@ public:
 };
 
 int main(){
-  Human Keshav(178, 120, "Bachelors", "Meh");
-  Keshav.print();
+  Human Random(188, 80, "Bachelors", "Nice");
+  Random.print();
   return 0;
 }
