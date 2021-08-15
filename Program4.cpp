@@ -39,9 +39,9 @@ public:
 using namespace std;
 int main(){
   HouseDimensions Property1;
-  Property1.setSpecs(40, 100, 20, 1000000);
+  Property1.setSpecs(40, 100, 20, 1000);
   Property1.set2D3D();
-  Property1.setName("3363 Burdock Place");
+  Property1.setName("Random Place");
   Property1.print();
 
   return 0;
